@@ -1,2 +1,2 @@
 ini adalah soal praktikum 
-prakerja git 
+ini adalah update featureB
