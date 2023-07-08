@@ -12,7 +12,7 @@ func TestPrima(t *testing.T) {
 	if num < 2 {
 		fmt.Println("harus lebih dari 1")
 	} else {
-		for i := 2; i <= num; i++ {
+		for i := 2; i < num; i++ {
 			if num%i == 0 {
 				total++
 			}
@@ -27,7 +27,7 @@ func TestPrima(t *testing.T) {
 
 // optimasi dg chatgpt
 func TestPrime(t *testing.T) {
-	num := 110 //masukan nilai untuk di cek
+	num := 100 //masukan nilai untuk di cek
 
 	isPrime := true
 	if num < 2 {
