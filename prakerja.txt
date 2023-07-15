@@ -1,0 +1,4 @@
+ini adalah soal praktikum 
+ini adalah perubahan pada featureA
+ini adalah update featureB
+ini adalah fix conflict
